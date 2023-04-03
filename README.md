@@ -4,5 +4,7 @@ PCB stands for "Printed Circuit Board." It is a board made of non-conductive mat
 Here,I design the PCB of Arduino_UNO using Autodesk_EAGLE having three main modules.
 
 1)POWER MODULE
+
 2)MICROCONTROLLER MODULE
+
 3)I/O PINS
