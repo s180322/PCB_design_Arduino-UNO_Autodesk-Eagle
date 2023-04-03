@@ -11,7 +11,7 @@ Here,I design the PCB of Arduino_UNO using Autodesk_EAGLE having three main modu
 
 In this repo I attached the background files related to the design.
 
-Basic_Schematic
+Schematic_Arduin UNO
 
 EAGLE_generated_Board
 
