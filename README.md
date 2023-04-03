@@ -8,3 +8,17 @@ Here,I design the PCB of Arduino_UNO using Autodesk_EAGLE having three main modu
 2)MICROCONTROLLER MODULE
 
 3)I/O PINS
+
+In this repo I attached the background files related to the design.
+
+Basic_Schematic
+
+EAGLE_generated_Board
+
+Gerber_Files
+
+Gerber_generated_Board
+
+BOM_file(Bill Of Materials)
+
+Final_PCB_Design_Arduino UNO
